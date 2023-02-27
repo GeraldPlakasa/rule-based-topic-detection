@@ -1,2 +1,9 @@
-vaderSentiment
-requirement
+yake
+deep_translator
+nltk
+cosine_similarity
+stopwords
+sklearn
+spacy
+openpyxl
+xlwings

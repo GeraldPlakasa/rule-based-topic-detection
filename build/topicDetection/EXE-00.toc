@@ -1,5 +1,5 @@
-('C:\\Users\\gwx1201968\\Documents\\Sentimen Analysis\\xlwings '
- 'test\\topicDetection\\build\\topicDetection\\topicDetection.exe',
+('D:\\Data NPS\\xlwings test\\topicDetection '
+ 'v2\\build\\topicDetection\\topicDetection.exe',
  True,
  False,
  True,
@@ -14,31 +14,31 @@
  None,
  None,
  None,
- 'C:\\Users\\gwx1201968\\Documents\\Sentimen Analysis\\xlwings '
- 'test\\topicDetection\\build\\topicDetection\\topicDetection.pkg',
+ 'D:\\Data NPS\\xlwings test\\topicDetection '
+ 'v2\\build\\topicDetection\\topicDetection.pkg',
  [('PYZ-00.pyz',
-   'C:\\Users\\gwx1201968\\Documents\\Sentimen Analysis\\xlwings '
-   'test\\topicDetection\\build\\topicDetection\\PYZ-00.pyz',
+   'D:\\Data NPS\\xlwings test\\topicDetection '
+   'v2\\build\\topicDetection\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   'C:\\Users\\gwx1201968\\Documents\\Sentimen Analysis\\xlwings '
-   'test\\topicDetection\\build\\topicDetection\\localpycs\\struct.pyc',
+   'D:\\Data NPS\\xlwings test\\topicDetection '
+   'v2\\build\\topicDetection\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   'C:\\Users\\gwx1201968\\Documents\\Sentimen Analysis\\xlwings '
-   'test\\topicDetection\\build\\topicDetection\\localpycs\\pyimod01_archive.pyc',
+   'D:\\Data NPS\\xlwings test\\topicDetection '
+   'v2\\build\\topicDetection\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'C:\\Users\\gwx1201968\\Documents\\Sentimen Analysis\\xlwings '
-   'test\\topicDetection\\build\\topicDetection\\localpycs\\pyimod02_importers.pyc',
+   'D:\\Data NPS\\xlwings test\\topicDetection '
+   'v2\\build\\topicDetection\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'C:\\Users\\gwx1201968\\Documents\\Sentimen Analysis\\xlwings '
-   'test\\topicDetection\\build\\topicDetection\\localpycs\\pyimod03_ctypes.pyc',
+   'D:\\Data NPS\\xlwings test\\topicDetection '
+   'v2\\build\\topicDetection\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'C:\\Users\\gwx1201968\\Documents\\Sentimen Analysis\\xlwings '
-   'test\\topicDetection\\build\\topicDetection\\localpycs\\pyimod04_pywin32.pyc',
+   'D:\\Data NPS\\xlwings test\\topicDetection '
+   'v2\\build\\topicDetection\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\gwx1201968\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
@@ -77,13 +77,12 @@
    'C:\\Users\\gwx1201968\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_nltk.py',
    'PYSOURCE'),
   ('topicDetection',
-   'C:\\Users\\gwx1201968\\Documents\\Sentimen Analysis\\xlwings '
-   'test\\topicDetection\\topicDetection.py',
+   'D:\\Data NPS\\xlwings test\\topicDetection v2\\topicDetection.py',
    'PYSOURCE')],
  [],
  False,
  False,
- 1665633616,
+ 1675756592,
  [('run.exe',
    'C:\\Users\\gwx1201968\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
    'EXECUTABLE')])
