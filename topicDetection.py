@@ -88,10 +88,6 @@ def fix_typo(df_teks, nama_kolom, kata_typo):
                 teks = pattern.sub(r"\1\1", teks)
             except:
                 raise Exception(teks)
-            
-            # Gabungin kata yang kepisah
-            teks = teks.replace("my xl", "myxl")
-            teks = teks.replace("axis net", "axisnet")
 
             # lakukan tokenisasi dan masukkan ke teks_temp
             teks_temp = word_tokenize(str(teks))
